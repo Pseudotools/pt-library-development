@@ -1,20 +1,23 @@
 {
   "schema_version": "0.2",
   "defaults": {
-    "scene": "objects in liminal space",
-    "style": "kodachrome film still, 1976",
-    "negative": "poor, low res, just nasty"
+    "scene": "third",
+    "style": "quattro",
+    "negative": "sure"
   },
   "scene": {
     "first": "a photo of a wild kid's birthday party with balloons, cake, and presents",
-    "second": "zoo animals gone wild, running amok"
+    "second": "zoo animals gone wild, running amok",
+    "third": "objects in liminal space"
   },
   "style": {
     "uno": "cotton candy colors, whimsical and playful",
     "due": "french baroque style with ornate details and luxurious textures",
-    "twa": "lush hobbitseque greenery with rustic wooden elements"
+    "twa": "lush hobbitseque greenery with rustic wooden elements",
+    "quattro": "kodachrome film still, 1976"
   },
   "negative": {
+    "sure": "poor, low res, just nasty",
     "one": "low res, poorly drawn, deformed, blurry",
     "two": "unrealistic, cartoonish, low res, poorly drawn, deformed, blurry"
   }

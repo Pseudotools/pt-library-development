@@ -3,7 +3,8 @@
   "defaults": {
     "scene": "third",
     "style": "quattro",
-    "negative": "sure"
+    "negative": "sure",
+    "style_image": "solarpunk.jpg"
   },
   "scene": {
     "first": "a photo of a wild kid's birthday party with balloons, cake, and presents",
